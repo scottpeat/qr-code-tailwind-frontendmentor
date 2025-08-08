@@ -1,0 +1,11 @@
+@import 'tailwindcss';
+
+@theme {
+--font-display: "Outfit", "sans-serif";
+--text-Heading: 22px;
+--text-Paragragh: 15px;
+--slateLight: hsl(212, 45%, 89%)
+--slateMedium: hsl(216, 15%, 48%)
+--slateDark: hsl(218, 44%, 22%)
+
+}
